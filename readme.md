@@ -1,4 +1,6 @@
-Digital haven is open space (open-source for lodging) hostel, providing hosting and lodging services for tech entrepreneurs, digital nomads, hackers and startups. It is a place to work in silence and host hackathons,
+## Concept
+
+Digital haven is open-source hostel, providing hosting and lodging services for tech entrepreneurs, digital nomads, hackers and startups.
 
 ## Ideas
 
@@ -41,4 +43,4 @@ hostel.js, opensource hostel, digital nomad services, openhostel, opensource spa
 ## Contribute
 
 How to make this real?
-If you are interested in any way - me too.
+Investments required.
