@@ -7,34 +7,35 @@ Digital haven is open-source hostel, providing hosting and lodging services for 
 * pay with bitcoins/litecoins/ethereum
 * bitcoin ATM
 * postal address docs service
-* valuable storage units
+* storage units
 * cellphone service
 * stickers exchange
 * quiet place to work, like library
 * loudness/spectrum meters
 * movable furniture
 * conference/meeting cells
+* whiteboard walls/tables
 * shared coffee space with teabar
 * free water
-* self-ordered working space
-* city garden
+* self-ordered open working space
+* [indoor farm](http://fibonacci.farm/)
 * solar-powered
-* any type of charger
+* plugs with any type of charger
 * discounts for opensource maintainers
-* open to contributors
-* microsport spaces for yoga
+* micro-sport spaces for yoga
 * laundry
-* list of famous contributors/events stayed here
+* list of famous contributors/events
 * ask where visitors contribute and add discounts or recommendations
 * include experience of every other hostel
-* usability-test rooms
+* usability-tested rooms
 * dotation/gratitude bitcoin jar
 * 3d/sticker/t-shirt printer
 * organization badges (colorjs, audiojs)
-* bed and breakfast for dotations into orgs (issues-list)
+* bed and breakfast for dotations into github orgs (issues-list)
 * hackathons schedule
 * no-party rule
-* help with maintaining projects
+* help for juniors with maintaining projects
+* scrapyard for abandoned projects, like pawnshop for repos
 
 ## Keywords
 
