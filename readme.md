@@ -43,4 +43,9 @@ hostel.js, opensource hostel, digital nomad services, openhostel, opensource spa
 ## Contribute
 
 How to make this real?
-Investments required.
+Investments required for renting property, initial reparations, interior design, staff, advertisment.
+
+## Related
+
+* [Montreal is a tech-hub](https://www.youtube.com/watch?v=D-xhktbMC7k)
+* [hostels accepting bitcoin](https://rumorscity.com/2014/01/14/10-hotels-and-hostels-that-accept-bitcoin/)
