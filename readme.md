@@ -37,3 +37,8 @@ Digital haven is open space (open-source for lodging) hostel, providing hosting 
 ## Keywords
 
 hostel.js, opensource hostel, digital nomad services, openhostel, opensource space, openspace, digital haven
+
+## Contribute
+
+How to make this real?
+If you are interested in any way - me too.
